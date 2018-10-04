@@ -1,0 +1,15 @@
+body {
+	padding-top: 2em;
+}
+
+.jumbotron h1 {
+	margin: 0;
+}
+
+table td {
+	vertical-align: middle !important;
+}
+
+.swal2-popup {
+  font-size: 1.6rem !important;
+}
